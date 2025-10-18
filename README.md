@@ -1,1 +1,1 @@
-Click here : https://storing-user.netlify.app/
+Click here : https://ashik477.github.io/storing-user-preference/
